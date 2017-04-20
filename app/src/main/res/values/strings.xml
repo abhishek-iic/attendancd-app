@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Attendance-app</string>
+    <string name="username">Username/E-mail id</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="newuser">New User</string>
+    <string name="name">Name</string>
+    <string name="contact">Contact No.</string>
+    <string name="email">Email Id</string>
+    <string name="password_reg">Password</string>
+    <string name="signup">Sign Up</string>
+</resources>
